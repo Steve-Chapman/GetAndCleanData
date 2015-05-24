@@ -1,9 +1,8 @@
 # GetAndCleanData
-###Coursera Getting and Cleaning Data Class Project
+Coursera Getting and Cleaning Data Class Project
 ========================================================
 ###run_analysis.R 
-An R script file that will produce a tidy data set of means of averages and standard deviations of Samsung smartphone
-datasets
+An R script file that will produce a tidy data set of means of averages and standard deviations of Samsung smartphone datasets
 ========================================================
 Steve Chapman 5/24/15
 Coursera - Johns Hopkins Data Science Specialization
