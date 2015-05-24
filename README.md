@@ -11,14 +11,14 @@ An R script file that will produce a tidy data set of means of averages and stan
 ###Required Input files:
 #### IMPORTANT - the files should be in the working directory with the R script 
 
-       * activity_labels.txt - Lookup table for activity categories (Running, Walking etc.)
-       * features.txt - Lookup table for variables (pre-processed) from the fitness device
-       * subject_test.txt - numeric vars linking observation to a subject
-       * subject_train.txt  
-       * X_test.txt - sensor data
-       * X_train.txt
-       * y_text.txt - variables linking a (numerically coded) activity to each observation
-       * y_train.txt 
+* activity_labels.txt - Lookup table for activity categories (Running, Walking etc.)
+* features.txt - Lookup table for variables (pre-processed) from the fitness device
+* subject_test.txt - numeric vars linking observation to a subject
+* subject_train.txt  
+* X_test.txt - sensor data
+* X_train.txt
+* y_text.txt - variables linking a (numerically coded) activity to each observation
+* y_train.txt 
       
        The files are available UCI Machine Learning Repository at the following link:
        https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
@@ -41,9 +41,9 @@ To examine the output file use the following R command:
       
 The table SamsungFitness is a tidy dataset containing:
 
-    * There is one variable per column
-    * There is one observation of the measure variables per row.
-    * There are two id variables, and 79 measure variables (see the CodeBook.md for explanation)
+* There is one variable per column
+* There is one observation of the measure variables per row.
+* There are two id variables, and 79 measure variables (see the CodeBook.md for explanation)
 
        
 
