@@ -1,14 +1,14 @@
 # GetAndCleanData
-##Coursera Getting and Cleaning Data Class Project
+###Coursera Getting and Cleaning Data Class Project
 ========================================================
-##run_analysis.R 
+###run_analysis.R 
 An R script file that will produce a tidy data set of means of averages and standard deviations of Samsung smartphone
 datasets
 ========================================================
 Steve Chapman 5/24/15
 Coursera - Johns Hopkins Data Science Specialization
 =======================================================
-##Required Input files:
+###Required Input files:
 ##*********** IMPORTANT - the files should be in the working directory with the R script **********************
        * activity_labels.txt - Lookup table for activity categories (Running, Walking etc.)
        * features.txt - Lookup table for variables (pre-processed) from the fitness device
@@ -29,7 +29,7 @@ Coursera - Johns Hopkins Data Science Specialization
        Further information regarding the design of this study and the nature of the source data can be found in the
        files readme.txt and features_info.txt (included in the zip file above)
 =======================================================
-##Output File: SamsungFitnessMeans.txt
+###Output File: SamsungFitnessMeans.txt
        A file containing 180 rows of means derived from Samsung smartwatch accelerometer
        and gyroscope data (30 subjects * 6 different measurement activities), and 79
        means of average and standard deviation data.
