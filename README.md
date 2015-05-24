@@ -17,7 +17,7 @@ An R script file that will produce a tidy data set of means of averages and stan
 * subject_train.txt  
 * X_test.txt - sensor data
 * X_train.txt
-* y_text.txt - variables linking a (numerically coded) activity to each observation
+* y_text.txt - variables linking numerically coded activities to each observation
 * y_train.txt 
       
        The files are available UCI Machine Learning Repository at the following link:
