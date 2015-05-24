@@ -21,7 +21,7 @@ Coursera - Johns Hopkins Data Science Specialization
       
        The files are available UCI Machine Learning Repository at the following link:
        https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-       From this, extract the listed files above and place then in the working directory with run_analysis.R
+       Extract the listed files above and place the in the working directory with run_analysis.R
        Then run:
           >source(run_analysis.R) 
        to create the output file.
@@ -35,6 +35,7 @@ Coursera - Johns Hopkins Data Science Specialization
        means of average and standard deviation data.
        
 To examine the output file use the following R command:
+
       SamsungFitnessMeans <- read.table("SamsungFitnessMeans.txt")
       
 The table SamsungFitness is a tidy dataset:
