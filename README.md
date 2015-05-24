@@ -25,7 +25,7 @@ An R script file that will produce a tidy data set of means of averages and stan
        Extract the listed files above and place the in the working directory with run_analysis.R
        Then, at the R command prompt run:
 
-          > source(run_analysis.R) 
+           source(run_analysis.R) 
           
        to create the output file.
        
@@ -37,7 +37,7 @@ An R script file that will produce a tidy data set of means of averages and stan
        and gyroscope data (30 subjects * 6 different measurement activities), and 79
        means of average and standard deviation data.
        
-To examine the output file use the following R command:
+To examine the output file execute the following R command:
 
       SamsungFitnessMeans <- read.table("SamsungFitnessMeans.txt")
       
