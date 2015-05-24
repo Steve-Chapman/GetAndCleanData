@@ -23,8 +23,10 @@ An R script file that will produce a tidy data set of means of averages and stan
        The files are available UCI Machine Learning Repository at the following link:
        https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
        Extract the listed files above and place the in the working directory with run_analysis.R
-       Then run:
-          >source(run_analysis.R) 
+       Then, at the R command prompt run:
+
+          > source(run_analysis.R) 
+          
        to create the output file.
        
        Further information regarding the design of this study and the nature of the source data can be found in the
