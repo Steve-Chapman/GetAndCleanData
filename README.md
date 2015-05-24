@@ -4,9 +4,9 @@
 ###run_analysis.R 
 An R script file that will produce a tidy data set of means of averages and standard deviations of Samsung smartphone datasets
 
-Steve Chapman
-Getting and Cleaning Data Class Project  May, 2015
-Coursera / Johns Hopkins Data Science Specialization
+* Steve Chapman
+* Getting and Cleaning Data Class Project  May, 2015
+* Coursera / Johns Hopkins Data Science Specialization
 
 ###Required Input files:
 #### IMPORTANT - the files should be in the working directory with the R script 
