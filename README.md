@@ -39,11 +39,11 @@ To examine the output file use the following R command:
 
       SamsungFitnessMeans <- read.table("SamsungFitnessMeans.txt")
       
-The table SamsungFitness is a tidy dataset containing:
+The table SamsungFitness is a tidy dataset with:
 
-* There is one variable per column
-* There is one observation of the measure variables per row.
-* There are two id variables, and 79 measure variables (see the CodeBook.md for explanation)
+* One variable per column
+* One observation of the measure variables per row.
+* Two id variables, and 79 measure variables (see the CodeBook.md for explanation)
 
        
 
