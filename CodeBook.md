@@ -2,7 +2,6 @@
 title: "CodeBook - Getting and Cleaning Data Project"
 author: "Steve Chapman"
 date: "May 24, 2015"
-output: html_document
 ---
 
 
