@@ -10,6 +10,7 @@ Coursera - Johns Hopkins Data Science Specialization
 
 ###Required Input files:
 ## IMPORTANT - the files should be in the working directory with the R script 
+
        * activity_labels.txt - Lookup table for activity categories (Running, Walking etc.)
        * features.txt - Lookup table for variables (pre-processed) from the fitness device
        * subject_test.txt - numeric vars linking observation to a subject
@@ -38,7 +39,8 @@ To examine the output file use the following R command:
 
       SamsungFitnessMeans <- read.table("SamsungFitnessMeans.txt")
       
-The table SamsungFitness is a tidy dataset:
+The table SamsungFitness is a tidy dataset containing:
+
     * There is one variable per column
     * There is one observation of the measure variables per row.
     * There are two id variables, and 79 measure variables (see the CodeBook.md for explanation)
